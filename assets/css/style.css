@@ -85,13 +85,13 @@ header {
 p {
     margin-right: 150px;
     width: 650px;
+    line-height: 1.5;
     height: 330px;
     background-color: #ffffff;
     font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     font-size: 18px;
-    overflow: hidden;
-}
+    }
 
 .text-block{
    position: absolute;
